@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8639e6c1-b376-4cd5-85b7-cccff2102366": {
+      "ProjectGuid": "8639e6c1-b376-4cd5-85b7-cccff2102366",
+      "DisplayName": "LibraryMgt.Domain",
+      "ColorIndex": 0
+    },
+    "821e0c68-d5e1-4d62-b504-af0eff248659": {
+      "ProjectGuid": "821e0c68-d5e1-4d62-b504-af0eff248659",
+      "DisplayName": "LibraryMgt.Application",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
