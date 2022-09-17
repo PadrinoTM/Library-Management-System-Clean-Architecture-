@@ -1,0 +1,13 @@
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\bin\Debug\net6.0\LibraryMgt.Domain.deps.json
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\bin\Debug\net6.0\LibraryMgt.Domain.runtimeconfig.json
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\bin\Debug\net6.0\LibraryMgt.Domain.dll
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\bin\Debug\net6.0\ref\LibraryMgt.Domain.dll
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\bin\Debug\net6.0\LibraryMgt.Domain.pdb
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\obj\Debug\net6.0\LibraryMgt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\obj\Debug\net6.0\LibraryMgt.Domain.AssemblyInfoInputs.cache
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\obj\Debug\net6.0\LibraryMgt.Domain.AssemblyInfo.cs
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\obj\Debug\net6.0\LibraryMgt.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\obj\Debug\net6.0\LibraryMgt.Domain.dll
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\obj\Debug\net6.0\ref\LibraryMgt.Domain.dll
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\obj\Debug\net6.0\LibraryMgt.Domain.pdb
+C:\Users\tosin\source\repos\LibraryMgt\LibraryMgt.Domain\obj\Debug\net6.0\LibraryMgt.Domain.genruntimeconfig.cache

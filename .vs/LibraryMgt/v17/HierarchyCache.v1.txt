@@ -1,0 +1,249 @@
+﻿++Solution 'LibraryMgt' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:LibraryMgt.sln
+++Test
+i:{00000000-0000-0000-0000-000000000000}:Test
+++Source
+i:{00000000-0000-0000-0000-000000000000}:Source
+++Infrastructure
+i:{03f1958f-1f24-42f7-8659-0a768049105b}:Infrastructure
+++LibraryMgt.Infrastructure.Persistence
+i:{6c3d75d7-4591-4a2a-b22b-542ee086369d}:LibraryMgt.Infrastructure.Persistence
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\librarymgt.infrastructure.persistence.csproj
+++Dependencies
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>290
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:>533
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:>289
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:>288
+++AutoMappingProfiles
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\automappingprofiles\
+++DbContexts
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\dbcontexts\
+++LibraryMgtDbContext.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\dbcontexts\librarymgtdbcontext.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\librarymgtdbcontext.cs
+++Migrations
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\
+++Repositories
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\repositories\
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\interfaces\repositories\
+++BookRepositoryAsync.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\repositories\bookrepositoryasync.cs
+++UserRepositoryAsync.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\repositories\userrepositoryasync.cs
+++Services
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\services\
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\interfaces\services\
+++BookService.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\services\bookservice.cs
+++UserService.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\services\userservice.cs
+++DependencyInjection.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\dependencyinjection.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dependencyinjection.cs
+++Analyzers
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:analyzers
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:analyzers
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:analyzers
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:analyzers
+++Frameworks
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:frameworks
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:frameworks
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:frameworks
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:frameworks
+++Packages
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:packages
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:packages
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:packages
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:packages
+++Projects
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:projects
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:projects
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:projects
+++20220916004841_DB Initialize.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\20220916004841_db initialize.cs
+++LibraryMgtDbContextModelSnapshot.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\librarymgtdbcontextmodelsnapshot.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\users\tosin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.9\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\users\tosin\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\microsoft.netcore.app
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\microsoft.netcore.app
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\microsoft.netcore.app
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\users\tosin\source\repos\librarymgt\librarymgt.domain\microsoft.netcore.app
+++AutoMapper (11.0.1)
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>566
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:>627
+++Core.Tools (1.0.0)
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>565
+++Microsoft.EntityFrameworkCore (6.0.9)
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>558
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:>553
+++Microsoft.EntityFrameworkCore.Design (6.0.9)
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>560
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:>582
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:>542
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.9)
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>559
+++Microsoft.EntityFrameworkCore.Tools (6.0.9)
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>567
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:>584
+++Microsoft.Extensions.Configuration.EnvironmentVariables (6.0.1)
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>562
+++Microsoft.Extensions.Configuration.FileExtensions (6.0.0)
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>563
+++Microsoft.Extensions.Configuration.Json (6.0.0)
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>564
+++Microsoft.Extensions.DependencyInjection.Abstractions (6.0.0)
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:>561
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:>556
+++LibraryMgt.Application
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\librarymgt.application.csproj
+i:{10c56f5b-38c0-434d-9c53-8052c0a51671}:LibraryMgt.Application
+++20220916004841_DB Initialize.Designer.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\20220916004841_db initialize.designer.cs
+++Presentation
+i:{03f1958f-1f24-42f7-8659-0a768049105b}:Presentation
+++WebUI
+i:{7fcdc7ee-ec7f-49e5-ada3-6e5b2010b90d}:WebUI
+++LibraryMgtWebAPI
+i:{7fcdc7ee-ec7f-49e5-ada3-6e5b2010b90d}:LibraryMgtWebAPI
+++Connected Services 
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:>534
+++Properties
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\properties\
+++Controllers
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\controllers\
+++appsettings.json
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\appsettings.json
+++appsettings.Development.json
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\appsettings.development.json
+++Program.cs
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\program.cs
+++WeatherForecast.cs
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\weatherforecast.cs
+++No service dependencies discovered
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:>535
+++launchSettings.json
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\properties\launchsettings.json
+++WeatherForecastController.cs
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\controllers\weatherforecastcontroller.cs
+++Microsoft.AspNetCore.Analyzers
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\program files\dotnet\sdk\6.0.300\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\microsoft.aspnetcore.app
+++Swashbuckle.AspNetCore (6.2.3)
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:>583
+++Core
+i:{03f1958f-1f24-42f7-8659-0a768049105b}:Core
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:>626
+++Newtonsoft.Json (13.0.1)
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:>555
+++Common
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\common\
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\users\tosin\source\repos\librarymgt\librarymgt.domain\common\
+++MappingProfiles.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\common\mappingprofiles.cs
+++DTOs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dtos\
+++Interfaces
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\interfaces\
+++LibraryMgt.Domain
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.domain\librarymgt.domain.csproj
+i:{10c56f5b-38c0-434d-9c53-8052c0a51671}:LibraryMgt.Domain
+++BookDTOs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dtos\bookdtos\
+++UserDTOs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dtos\userdtos\
+++GenericResponse.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dtos\genericresponse.cs
+++BookDTO.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dtos\bookdtos\bookdto.cs
+++CreateBookDTO.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dtos\bookdtos\createbookdto.cs
+++UpdateBookDTO.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dtos\bookdtos\updatebookdto.cs
+++CreateUserDTO.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dtos\userdtos\createuserdto.cs
+++UpdateUserDTO.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dtos\userdtos\updateuserdto.cs
+++UserDTO.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\dtos\userdtos\userdto.cs
+++IBookRepository.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\interfaces\repositories\ibookrepository.cs
+++IGenericRepository.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\interfaces\repositories\igenericrepository.cs
+++ILibraryMgtDbContext.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\interfaces\repositories\ilibrarymgtdbcontext.cs
+++IUserRepository.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\interfaces\repositories\iuserrepository.cs
+++IBookService.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\interfaces\services\ibookservice.cs
+++IGenericService.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\interfaces\services\igenericservice.cs
+++IUserService.cs
+i:{821e0c68-d5e1-4d62-b504-af0eff248659}:c:\users\tosin\source\repos\librarymgt\librarymgt.application\interfaces\services\iuserservice.cs
+++Entities
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\users\tosin\source\repos\librarymgt\librarymgt.domain\entities\
+++BaseEntity.cs
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\users\tosin\source\repos\librarymgt\librarymgt.domain\common\baseentity.cs
+++Book.cs
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\users\tosin\source\repos\librarymgt\librarymgt.domain\entities\book.cs
+++User.cs
+i:{8639e6c1-b376-4cd5-85b7-cccff2102366}:c:\users\tosin\source\repos\librarymgt\librarymgt.domain\entities\user.cs
+++20220916005634_DB Initialize again.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\20220916005634_db initialize again.cs
+++20220916005634_DB Initialize again.Designer.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\20220916005634_db initialize again.designer.cs
+++20220916011058_DB Initialize ag.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\20220916011058_db initialize ag.cs
+++20220916011058_DB Initialize ag.Designer.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\20220916011058_db initialize ag.designer.cs
+++20220916011530_DB Initialize a.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\20220916011530_db initialize a.cs
+++20220916011530_DB Initialize a.Designer.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\20220916011530_db initialize a.designer.cs
+++BooksController.cs
+++BookController.cs
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\controllers\bookcontroller.cs
+++UserController.cs
+i:{5d497cad-b5cb-45d4-8bb2-8f3c193509c4}:c:\users\tosin\source\repos\librarymgt\librarymgtwebapi\controllers\usercontroller.cs
+++20220916165602_Add Data.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\20220916165602_add data.cs
+++20220916165602_Add Data.Designer.cs
+i:{8f0968a6-0f9d-4e0a-827e-009b41fb7d14}:c:\users\tosin\source\repos\librarymgt\librarymgt.infrastructure.persistence\migrations\20220916165602_add data.designer.cs

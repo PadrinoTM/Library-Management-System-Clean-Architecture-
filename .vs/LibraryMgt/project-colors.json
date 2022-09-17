@@ -10,7 +10,17 @@
       "ProjectGuid": "821e0c68-d5e1-4d62-b504-af0eff248659",
       "DisplayName": "LibraryMgt.Application",
       "ColorIndex": 1
+    },
+    "5d497cad-b5cb-45d4-8bb2-8f3c193509c4": {
+      "ProjectGuid": "5d497cad-b5cb-45d4-8bb2-8f3c193509c4",
+      "DisplayName": "LibraryMgtWebAPI",
+      "ColorIndex": 2
+    },
+    "8f0968a6-0f9d-4e0a-827e-009b41fb7d14": {
+      "ProjectGuid": "8f0968a6-0f9d-4e0a-827e-009b41fb7d14",
+      "DisplayName": "LibraryMgt.Infrastructure.Persistence",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

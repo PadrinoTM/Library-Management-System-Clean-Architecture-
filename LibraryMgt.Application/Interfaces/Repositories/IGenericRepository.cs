@@ -6,16 +6,20 @@ using System.Threading.Tasks;
 
 namespace LibraryMgt.Application.Interfaces.Repositories
 {
-    public interface IGenericRepository<T> where T : class 
+    public interface IGenericRepository<T, Y, Z> where T : class 
     {
-        Task<IQueryable <T>> GetAllAsync();
-        Task<IQueryable<T>> GetByIdAsync(string id);
-        Task DeleteByIdAsync(string id); 
-        Task AddAsync (T entity);
-        Task UpdateAsync (T entity);
+        Task<IEnumerable <T>> GetAllAsync();
+        Task<T> GetByIdAsync(string id);
+        bool DeleteById(string id); 
+        Task AddAsync (Y entity);
+        Task UpdateAsync (Z entity);
+        Task<bool> Save(CancellationToken cancellationToken);
 
 
     }
-    
-    
+
+  
+   
+
+
 }

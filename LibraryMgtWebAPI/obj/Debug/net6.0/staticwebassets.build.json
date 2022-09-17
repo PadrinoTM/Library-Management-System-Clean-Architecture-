@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "etiUaZIcVUZx08mQ/FvJgp/Oqtj7q4Uyvrrf8zGQFbM=",
+  "Source": "LibraryMgtWebAPI",
+  "BasePath": "_content/LibraryMgtWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
